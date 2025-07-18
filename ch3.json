@@ -2,48 +2,247 @@
     "id": "ch3",
     "type": "chapter",
     "number": 3,
-    "level": "A2", 
+    "level": "A2",
     "title": "Découverte du Louvre",
     "titleEn": "Discovering the Louvre",
     "titleSk": "Objavovanie Louvru",
+    "titleDe": "Entdeckung des Louvre",
+    "titleEs": "Descubriendo el Louvre",
     "estimatedTime": 30,
     "grammarFocus": ["comparative-superlative", "possessive-adjectives", "imperative"],
     "vocabularyCount": 25,
     "content": {
         "story": {
-            "fr": "Le lendemain matin, Marc se réveille plus tôt que prévu. Il a son petit-déjeuner à l'hôtel : le meilleur croissant qu'il ait jamais mangé...",
-            "en": "The next morning, Marc wakes up earlier than expected. He has his breakfast at the hotel: the best croissant he has ever eaten...",
-            "sk": "Nasledujúce ráno sa Marc zobudí skôr ako očakával. V hoteli raňajkuje: najlepší croissant, aký kedykoľvek jedol..."
-        },
-        "vocabulary": [
+            "fr": "Le lendemain matin, Marc se réveille <mark class=\"grammar-gr12\">plus tôt que prévu</mark>. Il prend <mark class=\"grammar-gr13\">son petit-déjeuner</mark> à l'hôtel : <mark class=\"grammar-gr12\">le meilleur croissant</mark> qu'il ait jamais mangé.\n\nÀ 9 heures, il part vers le Louvre. <mark class=\"grammar-gr14\">\"Prends</mark> le métro ligne 1, <mark class=\"grammar-gr14\">descends</mark> à Palais-Royal,\" lui <mark class=\"grammar-gr13\">avait conseillé</mark> la réceptionniste.\n\nDevant la pyramide de verre, Marc est impressionné. \"C'est <mark class=\"grammar-gr12\">plus moderne</mark> que je ne l'imaginais,\" pense-t-il. La file d'attente est longue, mais ça vaut la peine.\n\nUne fois à l'intérieur, Marc achète <mark class=\"grammar-gr13\">son billet</mark> et reçoit un plan du musée. \"<mark class=\"grammar-gr14\">Commencez</mark> par l'aile Denon si vous voulez voir la Joconde,\" <mark class=\"grammar-gr14\">suggère</mark> l'employée.\n\nMarc suit <mark class=\"grammar-gr13\">ses conseils</mark>. En marchant dans les galeries, il découvre des œuvres magnifiques. \"<mark class=\"grammar-gr12\">C'est plus grand</mark> que <mark class=\"grammar-gr13\">ma ville natale</mark> tout entière !\" se dit-il.\n\nDevant la Joconde, il y a une foule énorme. Marc <mark class=\"grammar-gr14\">s'approche</mark> lentement. Le tableau lui paraît <mark class=\"grammar-gr12\">plus petit</mark> qu'il ne l'imaginait, mais <mark class=\"grammar-gr12\">plus mystérieux</mark> aussi.\n\nUne femme à côté de lui dit à <mark class=\"grammar-gr13\">sa fille</mark> : \"<mark class=\"grammar-gr14\">Regarde</mark> bien <mark class=\"grammar-gr13\">ses yeux</mark>, ils semblent te suivre.\"\n\nMarc passe <mark class=\"grammar-gr13\">sa matinée</mark> à explorer différentes sections. Dans la section égyptienne, il rencontre une guide touristique allemande qui explique à <mark class=\"grammar-gr13\">son groupe</mark> :\n\n\"<mark class=\"grammar-gr14\">Observez</mark> <mark class=\"grammar-gr13\">ces hiéroglyphes</mark>. Ils sont <mark class=\"grammar-gr12\">plus anciens</mark> que <mark class=\"grammar-gr13\">notre calendrier</mark>.\"\n\nMarc <mark class=\"grammar-gr14\">s'arrête</mark> pour écouter. C'est fascinant ! Il prend des photos avec <mark class=\"grammar-gr13\">son téléphone</mark> pour <mark class=\"grammar-gr13\">ses amis</mark>.\n\nVers midi, <mark class=\"grammar-gr13\">ses pieds</mark> commencent à lui faire mal. \"<mark class=\"grammar-gr14\">Repose-toi</mark> dans le café du musée,\" pense-t-il.\n\nAu café, il rencontre Sophie, une étudiante en art de Lyon. \"C'est <mark class=\"grammar-gr13\">votre première</mark> visite ?\" lui demande-t-elle.\n\n\"Oui, et <mark class=\"grammar-gr13\">vos conseils</mark> seraient les bienvenus !\" répond Marc.\n\n\"<mark class=\"grammar-gr14\">Allez</mark> voir la Vénus de Milo après le déjeuner. C'est <mark class=\"grammar-gr12\">moins bondé</mark> l'après-midi.\"\n\nMarc la remercie et ils décident de continuer <mark class=\"grammar-gr13\">leur visite</mark> ensemble. \"C'est <mark class=\"grammar-gr12\">plus amusant</mark> à deux !\" dit Sophie.",
+            
+            "en": "The next morning, Marc wakes up earlier than expected. He has his breakfast at the hotel: the best croissant he has ever eaten.\n\nAt 9 o'clock, he leaves for the Louvre. \"Take metro line 1, get off at Palais-Royal,\" the receptionist had advised him.\n\nIn front of the glass pyramid, Marc is impressed. \"It's more modern than I imagined,\" he thinks. The queue is long, but it's worth it.\n\nOnce inside, Marc buys his ticket and receives a museum map. \"Start with the Denon wing if you want to see the Mona Lisa,\" suggests the employee.\n\nMarc follows her advice. Walking through the galleries, he discovers magnificent works. \"It's bigger than my entire hometown!\" he tells himself.\n\nIn front of the Mona Lisa, there's a huge crowd. Marc approaches slowly. The painting seems smaller than he imagined, but more mysterious too.\n\nA woman next to him says to her daughter: \"Look carefully at her eyes, they seem to follow you.\"\n\nMarc spends his morning exploring different sections. In the Egyptian section, he meets a German tour guide explaining to her group:\n\n\"Observe these hieroglyphs. They are older than our calendar.\"\n\nMarc stops to listen. It's fascinating! He takes photos with his phone for his friends.\n\nAround noon, his feet start to hurt. \"Rest in the museum café,\" he thinks.\n\nAt the café, he meets Sophie, an art student from Lyon. \"Is this your first visit?\" she asks him.\n\n\"Yes, and your advice would be welcome!\" Marc replies.\n\n\"Go see the Venus de Milo after lunch. It's less crowded in the afternoon.\"\n\nMarc thanks her and they decide to continue their visit together. \"It's more fun for two!\" says Sophie.",
+            
+            "sk": "Nasledujúce ráno sa Marc zobudí skôr ako očakával. V hoteli raňajkuje: najlepší croissant, aký kedykoľvek jedol.\n\nO 9. hodine odchádza do Louvru. \"Vezmite si metro linku 1, vystúpte na Palais-Royal,\" poradila mu recepčná.\n\nPred sklenenou pyramídou je Marc ohromený. \"Je modernejšia, ako som si myslel,\" premýšľa. Rad je dlhý, ale stojí to za to.\n\nKeď je vo vnútri, Marc si kúpi lístok a dostane plán múzea. \"Začnite krídlom Denon, ak chcete vidieť Monu Lisu,\" navrhuje zamestnankyne.\n\nMarc nasleduje jej radu. Kráčajúc galériami objavuje nádherné diela. \"Je to väčšie ako celé moje rodné mesto!\" hovorí si.\n\nPred Monou Lisou je obrovský dav. Marc sa pomaly približuje. Obraz sa mu zdá menší, ako si myslel, ale aj tajomnejší.\n\nŽena vedľa neho hovorí svojej dcére: \"Pozri sa pozorne na jej oči, zdá sa, že ťa sledujú.\"\n\nMarc trávi ráno objavovaním rôznych sekcií. V egyptskej sekcii stretne nemeckú sprievodkyňu, ktorá vysvetľuje svojej skupine:\n\n\"Pozorujte tieto hieroglyfy. Sú staršie ako náš kalendár.\"\n\nMarc sa zastaví počúvať. Je to fascinujúce! Fotí svojím telefonom pre priateľov.\n\nOkolo poludnia ho začínajú bolieť nohy. \"Odpočiň si v múzejnej kaviarni,\" myslí si.\n\nV kaviarni stretne Sophie, študentku umenia z Lyonu. \"Je to vaša prvá návšteva?\" pýta sa ho.\n\n\"Áno, a vaše rady by boli vítané!\" odpovedá Marc.\n\n\"Choďte vidieť Venušu z Mila po obede. Popoludní je tam menej ľudí.\"\n\nMarc jej poďakuje a rozhodnú sa pokračovať v návšteve spolu. \"Je to zábavnejšie vo dvoch!\" hovorí Sophie.",
+            
+            "de": "Am nächsten Morgen wacht Marc früher als erwartet auf. Er frühstückt im Hotel: das beste Croissant, das er je gegessen hat.\n\nUm 9 Uhr bricht er zum Louvre auf. \"Nehmen Sie die Metrolinie 1, steigen Sie am Palais-Royal aus,\" hatte ihm die Rezeptionistin geraten.\n\nVor der Glaspyramide ist Marc beeindruckt. \"Es ist moderner als ich mir vorgestellt hatte,\" denkt er. Die Warteschlange ist lang, aber es lohnt sich.\n\nEinmal drinnen kauft Marc sein Ticket und erhält einen Museumsplan. \"Beginnen Sie mit dem Denon-Flügel, wenn Sie die Mona Lisa sehen wollen,\" schlägt die Angestellte vor.\n\nMarc folgt ihrem Rat. Beim Durchschreiten der Galerien entdeckt er wunderbare Werke. \"Es ist größer als meine ganze Heimatstadt!\" denkt er sich.\n\nVor der Mona Lisa herrscht ein riesiger Andrang. Marc nähert sich langsam. Das Gemälde scheint ihm kleiner als er sich vorgestellt hatte, aber auch geheimnisvoller.\n\nEine Frau neben ihm sagt zu ihrer Tochter: \"Schau genau auf ihre Augen, sie scheinen dir zu folgen.\"\n\nMarc verbringt seinen Vormittag damit, verschiedene Bereiche zu erkunden. In der ägyptischen Abteilung trifft er eine deutsche Reiseführerin, die ihrer Gruppe erklärt:\n\n\"Betrachten Sie diese Hieroglyphen. Sie sind älter als unser Kalender.\"\n\nMarc bleibt stehen, um zuzuhören. Es ist faszinierend! Er macht Fotos mit seinem Handy für seine Freunde.\n\nGegen Mittag fangen seine Füße an zu schmerzen. \"Ruh dich im Museumscafé aus,\" denkt er.\n\nIm Café trifft er Sophie, eine Kunststudentin aus Lyon. \"Ist das Ihr erster Besuch?\" fragt sie ihn.\n\n\"Ja, und Ihre Ratschläge wären willkommen!\" antwortet Marc.\n\n\"Gehen Sie nach dem Mittagessen zur Venus von Milo. Nachmittags ist es weniger überfüllt.\"\n\nMarc dankt ihr und sie beschließen, ihren Besuch gemeinsam fortzusetzen. \"Zu zweit macht es mehr Spaß!\" sagt Sophie.",
+            
+            "es": "A la mañana siguiente, Marc se despierta más temprano de lo esperado. Desayuna en el hotel: el mejor croissant que ha comido jamás.\n\nA las 9 en punto, parte hacia el Louvre. \"Tome el metro línea 1, bájese en Palais-Royal,\" le había aconsejado la recepcionista.\n\nFrente a la pirámide de cristal, Marc está impresionado. \"Es más moderno de lo que imaginaba,\" piensa. La cola es larga, pero vale la pena.\n\nUna vez dentro, Marc compra su entrada y recibe un mapa del museo. \"Comience por el ala Denon si quiere ver la Mona Lisa,\" sugiere la empleada.\n\nMarc sigue su consejo. Caminando por las galerías, descubre obras magníficas. \"¡Es más grande que toda mi ciudad natal!\" se dice.\n\nFrente a la Mona Lisa, hay una multitud enorme. Marc se acerca lentamente. El cuadro le parece más pequeño de lo que imaginaba, pero más misterioso también.\n\nUna mujer a su lado le dice a su hija: \"Mira bien sus ojos, parecen seguirte.\"\n\nMarc pasa la mañana explorando diferentes secciones. En la sección egipcia, encuentra una guía turística alemana que explica a su grupo:\n\n\"Observen estos jeroglíficos. Son más antiguos que nuestro calendario.\"\n\nMarc se detiene a escuchar. ¡Es fascinante! Toma fotos con su teléfono para sus amigos.\n\nHacia el mediodía, le empiezan a doler los pies. \"Descansa en el café del museo,\" piensa.\n\nEn el café, conoce a Sophie, una estudiante de arte de Lyon. \"¿Es su primera visita?\" le pregunta.\n\n\"¡Sí, y sus consejos serían bienvenidos!\" responde Marc.\n\n\"Vaya a ver la Venus de Milo después del almuerzo. Por la tarde hay menos gente.\"\n\nMarc le agradece y deciden continuar su visita juntos. \"¡Es más divertido de a dos!\" dice Sophie."
+        },        "vocabulary": [
             {
                 "fr": "lendemain",
                 "pronunciation": "/lɑ̃d.mɛ̃/",
                 "en": "next day",
                 "sk": "nasledujúci deň",
+                "de": "nächster Tag",
+                "es": "día siguiente",
                 "example": "Le lendemain matin",
                 "note": "Time expression"
+            },
+            {
+                "fr": "prévu",
+                "pronunciation": "/pʁe.vy/",
+                "en": "expected",
+                "sk": "očakávaný",
+                "de": "erwartet",
+                "es": "previsto",
+                "example": "plus tôt que prévu",
+                "note": "Past participle of prévoir"
+            },
+            {
+                "fr": "pyramide",
+                "pronunciation": "/pi.ʁa.mid/",
+                "en": "pyramid",
+                "sk": "pyramída",
+                "de": "Pyramide",
+                "es": "pirámide",
+                "example": "la pyramide de verre",
+                "note": "Architectural term"
+            },
+            {
+                "fr": "impressionné",
+                "pronunciation": "/ɛ̃.pʁe.sjo.ne/",
+                "en": "impressed",
+                "sk": "ohromený",
+                "de": "beeindruckt",
+                "es": "impresionado",
+                "example": "Marc est impressionné",
+                "note": "Emotional state"
+            },
+            {
+                "fr": "file d'attente",
+                "pronunciation": "/fil da.tɑ̃t/",
+                "en": "queue",
+                "sk": "rad",
+                "de": "Warteschlange",
+                "es": "cola",
+                "example": "La file d'attente est longue",
+                "note": "Waiting line"
+            },
+            {
+                "fr": "billet",
+                "pronunciation": "/bi.jɛ/",
+                "en": "ticket",
+                "sk": "lístok",
+                "de": "Ticket",
+                "es": "entrada",
+                "example": "achète son billet",
+                "note": "Entry ticket"
+            },
+            {
+                "fr": "œuvres",
+                "pronunciation": "/œvʁ/",
+                "en": "works (art)",
+                "sk": "diela",
+                "de": "Werke",
+                "es": "obras",
+                "example": "des œuvres magnifiques",
+                "note": "Artistic works"
+            },
+            {
+                "fr": "foule",
+                "pronunciation": "/ful/",
+                "en": "crowd",
+                "sk": "dav",
+                "de": "Menge",
+                "es": "multitud",
+                "example": "une foule énorme",
+                "note": "Group of people"
+            },
+            {
+                "fr": "mystérieux",
+                "pronunciation": "/mis.te.ʁjø/",
+                "en": "mysterious",
+                "sk": "tajomný",
+                "de": "geheimnisvoll",
+                "es": "misterioso",
+                "example": "plus mystérieux",
+                "note": "Descriptive adjective"
+            },
+            {
+                "fr": "hiéroglyphes",
+                "pronunciation": "/je.ʁo.glif/",
+                "en": "hieroglyphs",
+                "sk": "hieroglyfy",
+                "de": "Hieroglyphen",
+                "es": "jeroglíficos",
+                "example": "ces hiéroglyphes",
+                "note": "Ancient writing system"
             }
         ],
         "exercises": [
             {
                 "type": "multiple-choice",
                 "question": {
-                    "fr": "Comment Marc trouve-t-il la Joconde ?",
-                    "en": "How does Marc find the Mona Lisa?",
-                    "sk": "Ako Marc vníma Monu Lisu?"
+                    "fr": "Comment Marc trouve-t-il la Joconde par rapport à ses attentes ?",
+                    "en": "How does Marc find the Mona Lisa compared to his expectations?",
+                    "sk": "Ako Marc vníma Monu Lisu v porovnaní so svojimi očakávaniami?",
+                    "de": "Wie findet Marc die Mona Lisa im Vergleich zu seinen Erwartungen?",
+                    "es": "¿Cómo encuentra Marc la Mona Lisa comparada con sus expectativas?"
                 },
                 "options": [
-                    {"fr": "Plus grande qu'imaginé", "en": "Larger than imagined", "sk": "Väčšiu ako si myslel"},
-                    {"fr": "Plus petite qu'imaginé", "en": "Smaller than imagined", "sk": "Menšiu ako si myslel"},
-                    {"fr": "Comme il l'imaginait", "en": "As he imagined", "sk": "Ako si myslel"},
-                    {"fr": "Décevante", "en": "Disappointing", "sk": "Sklamajúcu"}
+                    {
+                        "fr": "Plus grande qu'imaginé",
+                        "en": "Larger than imagined",
+                        "sk": "Väčšiu ako si myslel",
+                        "de": "Größer als erwartet",
+                        "es": "Más grande de lo imaginado"
+                    },
+                    {
+                        "fr": "Plus petite mais plus mystérieuse",
+                        "en": "Smaller but more mysterious",
+                        "sk": "Menšiu ale tajomnejšiu",
+                        "de": "Kleiner aber geheimnisvoller",
+                        "es": "Más pequeña pero más misteriosa"
+                    },
+                    {
+                        "fr": "Exactement comme il l'imaginait",
+                        "en": "Exactly as he imagined",
+                        "sk": "Presne ako si myslel",
+                        "de": "Genau wie er es sich vorgestellt hatte",
+                        "es": "Exactamente como la imaginaba"
+                    },
+                    {
+                        "fr": "Décevante",
+                        "en": "Disappointing",
+                        "sk": "Sklamajúcu",
+                        "de": "Enttäuschend",
+                        "es": "Decepcionante"
+                    }
                 ],
                 "correct": 1,
                 "explanation": {
-                    "fr": "La Joconde lui paraît plus petite qu'il ne l'imaginait",
-                    "en": "The Mona Lisa seems smaller to him than he imagined",
-                    "sk": "Mona Lisa sa mu zdá menšia, ako si myslel"
+                    "fr": "Le texte dit \"Le tableau lui paraît plus petit qu'il ne l'imaginait, mais plus mystérieux aussi\"",
+                    "en": "The text says \"The painting seems smaller than he imagined, but more mysterious too\"",
+                    "sk": "Text hovorí \"Obraz sa mu zdá menší, ako si myslel, ale aj tajomnejší\"",
+                    "de": "Der Text sagt \"Das Gemälde scheint ihm kleiner als er sich vorgestellt hatte, aber auch geheimnisvoller\"",
+                    "es": "El texto dice \"El cuadro le parece más pequeño de lo que imaginaba, pero más misterioso también\""
+                }
+            },
+            {
+                "type": "multiple-choice",
+                "question": {
+                    "fr": "Qui Marc rencontre-t-il au café du musée ?",
+                    "en": "Who does Marc meet at the museum café?",
+                    "sk": "Koho Marc stretne v múzejnej kaviarni?",
+                    "de": "Wen trifft Marc im Museumscafé?",
+                    "es": "¿A quién conoce Marc en el café del museo?"
+                },
+                "options": [
+                    {
+                        "fr": "Un guide touristique",
+                        "en": "A tour guide",
+                        "sk": "Turistického sprievodcu",
+                        "de": "Einen Reiseführer",
+                        "es": "Un guía turístico"
+                    },
+                    {
+                        "fr": "Sophie, une étudiante en art",
+                        "en": "Sophie, an art student",
+                        "sk": "Sophie, študentku umenia",
+                        "de": "Sophie, eine Kunststudentin",
+                        "es": "Sophie, una estudiante de arte"
+                    },
+                    {
+                        "fr": "La réceptionniste de l'hôtel",
+                        "en": "The hotel receptionist",
+                        "sk": "Recepčnú z hotela",
+                        "de": "Die Hotelrezeptionistin",
+                        "es": "La recepcionista del hotel"
+                    },
+                    {
+                        "fr": "Un autre touriste",
+                        "en": "Another tourist",
+                        "sk": "Iného turistu",
+                        "de": "Einen anderen Touristen",
+                        "es": "Otro turista"
+                    }
+                ],
+                "correct": 1,
+                "explanation": {
+                    "fr": "Marc rencontre \"Sophie, une étudiante en art de Lyon\"",
+                    "en": "Marc meets \"Sophie, an art student from Lyon\"",
+                    "sk": "Marc stretne \"Sophie, študentku umenia z Lyonu\"",
+                    "de": "Marc trifft \"Sophie, eine Kunststudentin aus Lyon\"",
+                    "es": "Marc conoce a \"Sophie, una estudiante de arte de Lyon\""
+                }
+            },
+            {
+                "type": "comparative",
+                "sentence": {
+                    "fr": "Le Louvre est _____ que ma ville natale. (grand)",
+                    "en": "The Louvre is _____ than my hometown. (big)",
+                    "sk": "Louvre je _____ ako moje rodné mesto. (veľký)",
+                    "de": "Der Louvre ist _____ als meine Heimatstadt. (groß)",
+                    "es": "El Louvre es _____ que mi ciudad natal. (grande)"
+                },
+                "correct": {
+                    "fr": "plus grand",
+                    "en": "bigger",
+                    "sk": "väčší",
+                    "de": "größer",
+                    "es": "más grande"
+                },
+                "hint": {
+                    "fr": "Utilisez 'plus' + adjectif",
+                    "en": "Use 'more' + adjective or -er ending",
+                    "sk": "Použite stupňovanie prídavného mena",
+                    "de": "Verwenden Sie die Komparativform",
+                    "es": "Use 'más' + adjetivo"
                 }
             }
         ]

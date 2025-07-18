@@ -6,44 +6,243 @@
     "title": "Hôtel et Première Exploration",
     "titleEn": "Hotel and First Exploration",
     "titleSk": "Hotel a prvé objavovanie",
+    "titleDe": "Hotel und erste Erkundung",
+    "titleEs": "Hotel y primera exploración",
     "estimatedTime": 30,
     "grammarFocus": ["passe-compose", "partitive-articles", "futur-proche"],
     "vocabularyCount": 25,
     "content": {
         "story": {
-            "fr": "Marc est arrivé devant l'Hôtel des Jardins après vingt minutes de métro. Il a trouvé facilement l'hôtel grâce aux indications de la dame du métro...",
-            "en": "Marc arrived in front of Hotel des Jardins after twenty minutes on the metro. He easily found the hotel thanks to the directions from the lady on the metro...",
-            "sk": "Marc prišiel pred Hotel des Jardins po dvadsiatich minútach v metre. Hotel ľahko našiel vďaka návodom od pani z metra..."
-        },
-        "vocabulary": [
+            "fr": "Marc <mark class=\"grammar-gr7\">est arrivé</mark> devant l'Hôtel des Jardins après vingt minutes de métro. Il <mark class=\"grammar-gr7\">a trouvé</mark> facilement l'hôtel grâce aux indications de la dame du métro.\n\nÀ la réception, une jeune femme souriante l'accueille : \"Bonjour monsieur, comment puis-je vous aider ?\"\n\n\"Bonjour, j'ai une réservation au nom de Marc Dubois,\" <mark class=\"grammar-gr7\">répond</mark>-il en sortant son passeport.\n\n\"Parfait ! Vous <mark class=\"grammar-gr7\">avez réservé</mark> une chambre simple pour trois nuits. Voici votre clé, vous êtes chambre 305 au troisième étage. L'ascenseur <mark class=\"grammar-gr8\">se trouve</mark> <mark class=\"grammar-gr9\">à droite</mark>.\"\n\nMarc <mark class=\"grammar-gr7\">a pris</mark> l'ascenseur et <mark class=\"grammar-gr7\">a découvert</mark> sa chambre. Elle est petite mais confortable avec une jolie vue sur un petit jardin.\n\nAprès avoir posé sa valise, Marc <mark class=\"grammar-gr10\">va prendre</mark> une douche. Il <mark class=\"grammar-gr10\">va ensuite explorer</mark> le quartier avant le dîner.\n\nEn descendant dans la rue, il <mark class=\"grammar-gr7\">a remarqué</mark> <mark class=\"grammar-gr11\">du pain</mark> frais dans la boulangerie <mark class=\"grammar-gr9\">en face de</mark> l'hôtel. \"Je <mark class=\"grammar-gr10\">vais acheter</mark> <mark class=\"grammar-gr11\">des croissants</mark> pour demain matin,\" pense-t-il.\n\nDans la boulangerie, une odeur délicieuse l'envahit. \"Bonjour ! Je voudrais <mark class=\"grammar-gr11\">du pain</mark> et <mark class=\"grammar-gr11\">des croissants</mark> pour demain, s'il vous plaît.\"\n\n\"Bien sûr ! Combien <mark class=\"grammar-gr11\">de croissants</mark> voulez-vous ?\" <mark class=\"grammar-gr7\">demande</mark> la boulangère.\n\n\"Trois, s'il vous plaît. Et aussi <mark class=\"grammar-gr11\">de la confiture</mark> si vous en avez.\"\n\n\"Voilà ! Cela fait 4 euros 50, s'il vous plaît.\"\n\nMarc <mark class=\"grammar-gr7\">a payé</mark> et <mark class=\"grammar-gr7\">a continué</mark> sa promenade. Il <mark class=\"grammar-gr7\">a découvert</mark> une petite place avec <mark class=\"grammar-gr11\">des cafés</mark> et <mark class=\"grammar-gr11\">des restaurants</mark>. Les terrasses sont pleines de parisiens qui prennent l'apéritif.\n\n\"Demain, je <mark class=\"grammar-gr10\">vais visiter</mark> le Louvre,\" se dit Marc en admirant l'animation de la place.",
+            
+            "en": "Marc arrived in front of the Hotel des Jardins after twenty minutes on the metro. He easily found the hotel thanks to the directions from the lady on the metro.\n\nAt the reception, a smiling young woman welcomes him: \"Hello sir, how can I help you?\"\n\n\"Hello, I have a reservation under the name Marc Dubois,\" he replies, taking out his passport.\n\n\"Perfect! You reserved a single room for three nights. Here's your key, you're in room 305 on the third floor. The elevator is to the right.\"\n\nMarc took the elevator and discovered his room. It's small but comfortable with a nice view of a small garden.\n\nAfter putting down his suitcase, Marc is going to take a shower. He will then explore the neighborhood before dinner.\n\nGoing down to the street, he noticed fresh bread in the bakery across from the hotel. \"I'm going to buy croissants for tomorrow morning,\" he thinks.\n\nIn the bakery, a delicious smell overwhelms him. \"Hello! I would like some bread and croissants for tomorrow, please.\"\n\n\"Of course! How many croissants do you want?\" asks the baker.\n\n\"Three, please. And also some jam if you have any.\"\n\n\"Here you go! That's 4 euros 50, please.\"\n\nMarc paid and continued his walk. He discovered a small square with cafes and restaurants. The terraces are full of Parisians having aperitifs.\n\n\"Tomorrow, I'm going to visit the Louvre,\" Marc tells himself while admiring the liveliness of the square.",
+            
+            "sk": "Marc prišiel pred Hotel des Jardins po dvadsiatich minútach v metre. Hotel ľahko našiel vďaka návodom od pani z metra.\n\nNa recepcii ho víta usmiata mladá žena: \"Dobrý deň pán, ako vám môžem pomôcť?\"\n\n\"Dobrý deň, mám rezerváciu na meno Marc Dubois,\" odpovedá a vyberá pas.\n\n\"Perfektne! Rezervovali ste si jednoposteľovú izbu na tri noci. Tu máte kľúč, ste v izbe 305 na treťom poschodí. Výťah je napravo.\"\n\nMarc nastúpil do výťahu a objavil svoju izbu. Je malá, ale pohodlná s pekným výhľadom na malú záhradu.\n\nPo tom, ako odložil kufor, Marc si ide vziať sprchu. Potom bude objavovať okolie pred večerou.\n\nKým schádza na ulicu, všimne si čerstvý chlieb v pekárni oproti hotelu. \"Kúpim si croissanty na zajtrajšie ráno,\" myslí si.\n\nV pekárni ho zahalí lahodná vôňa. \"Dobrý deň! Chcel by som chlieb a croissanty na zajtra, prosím.\"\n\n\"Samozrejme! Koľko croissantov chcete?\" pýta sa pekárka.\n\n\"Tri, prosím. A tiež džem, ak máte.\"\n\n\"Tu máte! To je 4 eurá 50, prosím.\"\n\nMarc zaplatil a pokračoval v prechádzke. Objavil malé námestie s kaviarňami a reštauráciami. Terasy sú plné Parížanov, ktorí si dávajú aperitív.\n\n\"Zajtra navštívim Louvre,\" hovorí si Marc a obdivuje rušnosť námestia.",
+            
+            "de": "Marc kam nach zwanzig Minuten mit der Metro vor dem Hotel des Jardins an. Er fand das Hotel leicht dank der Wegbeschreibung der Dame aus der Metro.\n\nAn der Rezeption empfängt ihn eine lächelnde junge Frau: \"Guten Tag, wie kann ich Ihnen helfen?\"\n\n\"Guten Tag, ich habe eine Reservierung auf den Namen Marc Dubois,\" antwortet er und holt seinen Reisepass heraus.\n\n\"Perfekt! Sie haben ein Einzelzimmer für drei Nächte reserviert. Hier ist Ihr Schlüssel, Sie sind im Zimmer 305 im dritten Stock. Der Aufzug ist rechts.\"\n\nMarc nahm den Aufzug und entdeckte sein Zimmer. Es ist klein, aber gemütlich mit einem schönen Blick auf einen kleinen Garten.\n\nNachdem er seinen Koffer abgestellt hatte, nimmt Marc eine Dusche. Danach wird er das Viertel vor dem Abendessen erkunden.\n\nAls er auf die Straße geht, bemerkt er frisches Brot in der Bäckerei gegenüber dem Hotel. \"Ich werde Croissants für morgen früh kaufen,\" denkt er.\n\nIn der Bäckerei überwältigt ihn ein köstlicher Duft. \"Guten Tag! Ich hätte gerne Brot und Croissants für morgen, bitte.\"\n\n\"Gerne! Wie viele Croissants möchten Sie?\" fragt die Bäckerin.\n\n\"Drei, bitte. Und auch Marmelade, falls Sie welche haben.\"\n\n\"Hier, bitte! Das macht 4 Euro 50, bitte.\"\n\nMarc bezahlte und setzte seinen Spaziergang fort. Er entdeckte einen kleinen Platz mit Cafés und Restaurants. Die Terrassen sind voller Pariser, die einen Aperitif trinken.\n\n\"Morgen werde ich den Louvre besuchen,\" sagt sich Marc, während er die Lebendigkeit des Platzes bewundert.",
+            
+            "es": "Marc llegó frente al Hotel des Jardins después de veinte minutos en el metro. Encontró fácilmente el hotel gracias a las indicaciones de la señora del metro.\n\nEn la recepción, una joven sonriente lo recibe: \"Buenos días señor, ¿cómo puedo ayudarle?\"\n\n\"Buenos días, tengo una reserva a nombre de Marc Dubois,\" responde sacando su pasaporte.\n\n\"¡Perfecto! Ha reservado una habitación individual para tres noches. Aquí tiene su llave, está en la habitación 305 en el tercer piso. El ascensor está a la derecha.\"\n\nMarc tomó el ascensor y descubrió su habitación. Es pequeña pero cómoda con una bonita vista a un pequeño jardín.\n\nDespués de dejar su maleta, Marc va a ducharse. Luego explorará el barrio antes de la cena.\n\nAl bajar a la calle, notó pan fresco en la panadería frente al hotel. \"Voy a comprar croissants para mañana por la mañana,\" piensa.\n\nEn la panadería, un olor delicioso lo invade. \"¡Buenos días! Me gustaría pan y croissants para mañana, por favor.\"\n\n\"¡Por supuesto! ¿Cuántos croissants quiere?\" pregunta la panadera.\n\n\"Tres, por favor. Y también mermelada si tiene.\"\n\n\"¡Aquí tiene! Son 4 euros 50, por favor.\"\n\nMarc pagó y continuó su paseo. Descubrió una pequeña plaza con cafés y restaurantes. Las terrazas están llenas de parisinos tomando el aperitivo.\n\n\"Mañana visitaré el Louvre,\" se dice Marc admirando la animación de la plaza."
+        },        "vocabulary": [
+            {
+                "fr": "arrivé",
+                "pronunciation": "/a.ʁi.ve/",
+                "en": "arrived",
+                "sk": "prišiel",
+                "de": "angekommen",
+                "es": "llegado",
+                "example": "Marc est arrivé",
+                "note": "Past participle of arriver with être"
+            },
             {
                 "fr": "facilement",
                 "pronunciation": "/fa.sil.mɑ̃/",
                 "en": "easily",
                 "sk": "ľahko",
+                "de": "leicht",
+                "es": "fácilmente",
                 "example": "trouvé facilement",
                 "note": "Adverb formation"
+            },
+            {
+                "fr": "réception",
+                "pronunciation": "/ʁe.sɛp.sjɔ̃/",
+                "en": "reception",
+                "sk": "recepcia",
+                "de": "Rezeption",
+                "es": "recepción",
+                "example": "à la réception",
+                "note": "Hotel vocabulary"
+            },
+            {
+                "fr": "réservation",
+                "pronunciation": "/ʁe.zɛʁ.va.sjɔ̃/",
+                "en": "reservation",
+                "sk": "rezervácia",
+                "de": "Reservierung",
+                "es": "reserva",
+                "example": "j'ai une réservation",
+                "note": "Travel vocabulary"
+            },
+            {
+                "fr": "chambre",
+                "pronunciation": "/ʃɑ̃bʁ/",
+                "en": "room",
+                "sk": "izba",
+                "de": "Zimmer",
+                "es": "habitación",
+                "example": "chambre simple",
+                "note": "Hotel vocabulary"
+            },
+            {
+                "fr": "ascenseur",
+                "pronunciation": "/a.sɑ̃.sœʁ/",
+                "en": "elevator",
+                "sk": "výťah",
+                "de": "Aufzug",
+                "es": "ascensor",
+                "example": "L'ascenseur se trouve à droite",
+                "note": "Building vocabulary"
+            },
+            {
+                "fr": "confortable",
+                "pronunciation": "/kɔ̃.fɔʁ.tabl/",
+                "en": "comfortable",
+                "sk": "pohodlný",
+                "de": "gemütlich",
+                "es": "cómodo",
+                "example": "chambre confortable",
+                "note": "Adjective describing spaces"
+            },
+            {
+                "fr": "boulangerie",
+                "pronunciation": "/bu.lɑ̃.ʒə.ʁi/",
+                "en": "bakery",
+                "sk": "pekáreň",
+                "de": "Bäckerei",
+                "es": "panadería",
+                "example": "dans la boulangerie",
+                "note": "Shop vocabulary"
+            },
+            {
+                "fr": "croissants",
+                "pronunciation": "/kʁwa.sɑ̃/",
+                "en": "croissants",
+                "sk": "croissanty",
+                "de": "Croissants",
+                "es": "croissants",
+                "example": "des croissants",
+                "note": "French pastry"
+            },
+            {
+                "fr": "confiture",
+                "pronunciation": "/kɔ̃.fi.tyʁ/",
+                "en": "jam",
+                "sk": "džem",
+                "de": "Marmelade",
+                "es": "mermelada",
+                "example": "de la confiture",
+                "note": "Breakfast vocabulary"
             }
         ],
         "exercises": [
             {
                 "type": "multiple-choice",
                 "question": {
-                    "fr": "Combien de nuits Marc va-t-il rester ?",
-                    "en": "How many nights will Marc stay?",
-                    "sk": "Koľko nocí Marc zostane?"
+                    "fr": "Combien de nuits Marc va-t-il rester à l'hôtel ?",
+                    "en": "How many nights will Marc stay at the hotel?",
+                    "sk": "Koľko nocí Marc zostane v hoteli?",
+                    "de": "Wie viele Nächte wird Marc im Hotel bleiben?",
+                    "es": "¿Cuántas noches se quedará Marc en el hotel?"
                 },
                 "options": [
-                    {"fr": "Une nuit", "en": "One night", "sk": "Jednu noc"},
-                    {"fr": "Deux nuits", "en": "Two nights", "sk": "Dve noci"}, 
-                    {"fr": "Trois nuits", "en": "Three nights", "sk": "Tri noci"},
-                    {"fr": "Quatre nuits", "en": "Four nights", "sk": "Štyri noci"}
+                    {
+                        "fr": "Une nuit",
+                        "en": "One night",
+                        "sk": "Jednu noc",
+                        "de": "Eine Nacht",
+                        "es": "Una noche"
+                    },
+                    {
+                        "fr": "Deux nuits",
+                        "en": "Two nights",
+                        "sk": "Dve noci",
+                        "de": "Zwei Nächte",
+                        "es": "Dos noches"
+                    },
+                    {
+                        "fr": "Trois nuits",
+                        "en": "Three nights",
+                        "sk": "Tri noci",
+                        "de": "Drei Nächte",
+                        "es": "Tres noches"
+                    },
+                    {
+                        "fr": "Quatre nuits",
+                        "en": "Four nights",
+                        "sk": "Štyri noci",
+                        "de": "Vier Nächte",
+                        "es": "Cuatro noches"
+                    }
                 ],
                 "correct": 2,
                 "explanation": {
-                    "fr": "Marc dit \"j'ai réservé une chambre pour trois nuits\"",
-                    "en": "Marc says \"I reserved a room for three nights\"",
-                    "sk": "Marc hovorí \"rezervoval som si izbu na tri noci\""
+                    "fr": "Marc dit \"j'ai une réservation... pour trois nuits\"",
+                    "en": "Marc says \"I have a reservation... for three nights\"",
+                    "sk": "Marc hovorí \"mám rezerváciu... na tri noci\"",
+                    "de": "Marc sagt \"ich habe eine Reservierung... für drei Nächte\"",
+                    "es": "Marc dice \"tengo una reserva... para tres noches\""
+                }
+            },
+            {
+                "type": "multiple-choice",
+                "question": {
+                    "fr": "Qu'est-ce que Marc achète à la boulangerie ?",
+                    "en": "What does Marc buy at the bakery?",
+                    "sk": "Čo si Marc kúpi v pekárni?",
+                    "de": "Was kauft Marc in der Bäckerei?",
+                    "es": "¿Qué compra Marc en la panadería?"
+                },
+                "options": [
+                    {
+                        "fr": "Du pain et des croissants",
+                        "en": "Bread and croissants",
+                        "sk": "Chlieb a croissanty",
+                        "de": "Brot und Croissants",
+                        "es": "Pan y croissants"
+                    },
+                    {
+                        "fr": "Seulement du pain",
+                        "en": "Only bread",
+                        "sk": "Len chlieb",
+                        "de": "Nur Brot",
+                        "es": "Solo pan"
+                    },
+                    {
+                        "fr": "Du café",
+                        "en": "Coffee",
+                        "sk": "Kávu",
+                        "de": "Kaffee",
+                        "es": "Café"
+                    },
+                    {
+                        "fr": "Des gâteaux",
+                        "en": "Cakes",
+                        "sk": "Koláče",
+                        "de": "Kuchen",
+                        "es": "Pasteles"
+                    }
+                ],
+                "correct": 0,
+                "explanation": {
+                    "fr": "Marc demande \"du pain et des croissants pour demain\"",
+                    "en": "Marc asks for \"bread and croissants for tomorrow\"",
+                    "sk": "Marc si pýta \"chlieb a croissanty na zajtra\"",
+                    "de": "Marc fragt nach \"Brot und Croissants für morgen\"",
+                    "es": "Marc pide \"pan y croissants para mañana\""
+                }
+            },
+            {
+                "type": "fill-blank",
+                "sentence": {
+                    "fr": "Marc ____ une douche avant d'explorer le quartier.",
+                    "en": "Marc ____ a shower before exploring the neighborhood.",
+                    "sk": "Marc si ____ sprchu pred objavovaním okolia.",
+                    "de": "Marc ____ eine Dusche, bevor er das Viertel erkundet.",
+                    "es": "Marc ____ una ducha antes de explorar el barrio."
+                },
+                "correct": {
+                    "fr": ["va prendre", "prend"],
+                    "en": ["takes", "is going to take"],
+                    "sk": ["vezme", "ide vziať"],
+                    "de": ["nimmt", "wird nehmen"],
+                    "es": ["toma", "va a tomar"]
+                },
+                "hint": {
+                    "fr": "Futur proche avec 'aller'",
+                    "en": "Near future with 'going to'",
+                    "sk": "Blízka budúcnosť s 'ísť'",
+                    "de": "Nahe Zukunft mit 'werden'",
+                    "es": "Futuro próximo con 'ir a'"
                 }
             }
         ]

@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LinguaStory Content Schema",
+  "description": "Defines structure for chapters, grammar and vocabulary.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "Unique identifier (e.g. 'ch1', 'gr1', 'voc1-en')",
+      "type": "string"
+    },
+    "type": {
+      "description": "Content type",
+      "type": "string",
+      "enum": ["chapter", "grammar", "vocabulary"]
+    },
+    "lang": {
+      "description": "Content language (e.g. 'sk', 'en')",
+      "type": "string"
+    },
+    "title": {
+      "description": "Main lesson title",
+      "type": "string"
+    },
+    "number": {
+      "description": "Sequential number (optional, mainly for chapters)",
+      "type": "integer"
+    },
+    "level": {
+      "description": "CEFR level (A1, A2, B1, B2, C1)",
+      "type": "string"
+    },
+    "content": {
+      "description": "Main content structure",
+      "type": "object"
+    }
+  },
+  "required": ["id", "type", "title"],
+  "additionalProperties": true
+}

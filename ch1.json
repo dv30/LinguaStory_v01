@@ -1,0 +1,99 @@
+{
+    "id": "ch1",
+    "type": "chapter",
+    "number": 1,
+    "level": "A2",
+    "title": "Arrivée à Paris",
+    "titleEn": "Arrival in Paris", 
+    "titleSk": "Príchod do Paríža",
+    "estimatedTime": 30,
+    "grammarFocus": ["present-tense", "questions-quoi", "prepositions-place"],
+    "vocabularyCount": 25,
+    "content": {
+        "story": {
+            "fr": "Marc <mark class=\"grammar-gr1\">arrive</mark> à Paris pour la première fois. Il <mark class=\"grammar-gr2\">est</mark> très excité mais aussi un peu nerveux. Il <mark class=\"grammar-gr1\">descend</mark> du train à la Gare du Nord avec sa grande valise rouge.\n\n\"<mark class=\"grammar-gr3\">Qu'est-ce que</mark> je dois faire maintenant ?\" se demande Marc. Il <mark class=\"grammar-gr1\">regarde</mark> autour de lui et <mark class=\"grammar-gr1\">voit</mark> beaucoup de monde. Les gens <mark class=\"grammar-gr1\">marchent</mark> vite, ils <mark class=\"grammar-gr1\">parlent</mark> au téléphone ou ils <mark class=\"grammar-gr1\">lisent</mark> leurs journaux.\n\nMarc <mark class=\"grammar-gr1\">cherche</mark> un plan de la station. Il <mark class=\"grammar-gr3\">s'approche</mark> d'un employé de la SNCF qui <mark class=\"grammar-gr4\">porte</mark> un uniforme bleu.\n\n\"Excusez-moi, monsieur, <mark class=\"grammar-gr5\">où est</mark> la sortie pour le métro ?\" <mark class=\"grammar-gr1\">demande</mark> Marc poliment.\n\n\"Bonjour ! La sortie pour le métro <mark class=\"grammar-gr5\">se trouve</mark> là-bas, <mark class=\"grammar-gr6\">à gauche</mark> de l'escalator,\" <mark class=\"grammar-gr1\">répond</mark> l'employé avec un sourire.\n\n\"Merci beaucoup ! Et <mark class=\"grammar-gr3\">qu'est-ce que</mark> vous me conseillez pour aller <mark class=\"grammar-gr6\">au centre-ville</mark> ?\" <mark class=\"grammar-gr1\">continue</mark> Marc.\n\n\"Prenez la ligne 4 direction Porte d'Orléans. C'est direct <mark class=\"grammar-gr6\">jusqu'à</mark> Châtelet,\" <mark class=\"grammar-gr1\">explique</mark> l'employé.\n\nMarc <mark class=\"grammar-gr1\">remercie</mark> l'homme et <mark class=\"grammar-gr1\">se dirige</mark> vers le métro. Dans l'escalator, il <mark class=\"grammar-gr1\">observe</mark> les parisiens : certains <mark class=\"grammar-gr1\">lisent</mark> leurs livres, d'autres <mark class=\"grammar-gr1\">écoutent</mark> de la musique avec leurs écouteurs.\n\n<mark class=\"grammar-gr6\">Dans le métro</mark>, Marc <mark class=\"grammar-gr1\">trouve</mark> une place assise. Il <mark class=\"grammar-gr1\">sort</mark> son téléphone pour <mark class=\"grammar-gr1\">regarder</mark> l'adresse de son hôtel. \"Hôtel des Jardins, <mark class=\"grammar-gr6\">près du</mark> Louvre,\" <mark class=\"grammar-gr1\">lit</mark>-il à voix basse.\n\nUne dame âgée <mark class=\"grammar-gr6\">à côté de</mark> lui <mark class=\"grammar-gr1\">sourit</mark> et lui <mark class=\"grammar-gr1\">dit</mark> : \"C'est votre première fois à Paris, n'est-ce pas ?\"\n\n\"Oui, madame. Comment le savez-vous ?\" <mark class=\"grammar-gr1\">répond</mark> Marc, surpris.\n\n\"Vous <mark class=\"grammar-gr1\">regardez</mark> tout avec des yeux émerveillés. C'est magnifique !\" <mark class=\"grammar-gr1\">rit</mark> la dame gentiment.",
+            "en": "Marc arrives in Paris for the first time. He is very excited but also a little nervous. He gets off the train at Gare du Nord with his large red suitcase.\n\n\"What should I do now?\" Marc wonders. He looks around and sees many people. People are walking fast, they're talking on the phone or they're reading their newspapers.\n\nMarc looks for a station map. He approaches a SNCF employee who is wearing a blue uniform.\n\n\"Excuse me, sir, where is the exit to the metro?\" Marc asks politely.\n\n\"Hello! The metro exit is over there, to the left of the escalator,\" the employee replies with a smile.\n\n\"Thank you very much! And what would you advise me for getting to the city center?\" Marc continues.\n\n\"Take line 4 direction Porte d'Orléans. It's direct to Châtelet,\" the employee explains.\n\nMarc thanks the man and heads toward the metro. On the escalator, he observes the Parisians: some are reading their books, others are listening to music with their headphones.\n\nIn the metro, Marc finds a seat. He takes out his phone to look at his hotel address. \"Hotel des Jardins, near the Louvre,\" he reads quietly.\n\nAn elderly lady next to him smiles and says: \"It's your first time in Paris, isn't it?\"\n\n\"Yes, madam. How do you know?\" Marc replies, surprised.\n\n\"You're looking at everything with amazed eyes. It's magnificent!\" the lady laughs kindly.",
+            "sk": "Marc prichádza do Paríža po prvýkrát. Je veľmi nadšený, ale tiež trochu nervózny. Vystupuje z vlaku na Gare du Nord so svojím veľkým červeným kufrom.\n\n\"Čo mám teraz robiť?\" premýšľa Marc. Rozhliadne sa a vidí veľa ľudí. Ľudia kráčajú rýchlo, telefonujú alebo čítaju svoje noviny.\n\nMarc hľadá plán stanice. Priblíži sa k zamestnancovi SNCF, ktorý má na sebe modrú uniformu.\n\n\"Prepáčte, pán, kde je východ na metro?\" pýta sa Marc zdvorilo.\n\n\"Dobrý deň! Východ na metro je tam, naľavo od eskalátora,\" odpovedá zamestnanec s úsmevom.\n\n\"Veľmi pekne ďakujem! A čo by ste mi poradili, ako sa dostať do centra mesta?\" pokračuje Marc.\n\n\"Vezmite si linku 4 smerom Porte d'Orléans. Je to priame spojenie do Châtelet,\" vysvetľuje zamestnanec.\n\nMarc poďakuje mužovi a smeruje k metru. Na eskalátore pozoruje Parížanov: niektorí čítajú svoje knihy, iní počúvajú hudbu cez slúchadlá.\n\nV metre Marc nájde miesto na sedenie. Vytiahne telefón, aby si pozrel adresu svojho hotela. \"Hotel des Jardins, blízko Louvru,\" číta potichu.\n\nStaršia pani vedľa neho sa usmieva a hovorí: \"Je to váš prvý krát v Paríži, však?\"\n\n\"Áno, pani. Ako to viete?\" odpovedá Marc prekvapene.\n\n\"Pozeráte sa na všetko s očami plnými údivu. Je to nádherné!\" smeje sa pani láskavo."
+        },
+        "vocabulary": [
+            {
+                "fr": "arriver",
+                "pronunciation": "/a.ʁi.ve/",
+                "en": "to arrive",
+                "sk": "prísť, prišít",
+                "example": "Marc arrive à Paris",
+                "note": "Used with être in passé composé"
+            },
+            {
+                "fr": "excité",
+                "pronunciation": "/ɛk.si.te/",
+                "en": "excited",
+                "sk": "nadšený",
+                "example": "Il est très excité",
+                "note": "False friend - not sexual in this context"
+            },
+            {
+                "fr": "nerveux",
+                "pronunciation": "/nɛʁ.vø/",
+                "en": "nervous",
+                "sk": "nervózny",
+                "example": "aussi un peu nerveux",
+                "note": "Masculine form"
+            },
+            {
+                "fr": "valise",
+                "pronunciation": "/va.liz/",
+                "en": "suitcase",
+                "sk": "kufor",
+                "example": "sa grande valise rouge",
+                "note": "Essential travel vocabulary"
+            },
+            {
+                "fr": "rouge",
+                "pronunciation": "/ʁuʒ/",
+                "en": "red",
+                "sk": "červený",
+                "example": "valise rouge",
+                "note": "Basic color"
+            }
+        ],
+        "exercises": [
+            {
+                "type": "multiple-choice",
+                "question": {
+                    "fr": "Où Marc arrive-t-il à Paris ?",
+                    "en": "Where does Marc arrive in Paris?",
+                    "sk": "Kde Marc prichádza do Paríža?"
+                },
+                "options": [
+                    {
+                        "fr": "À l'aéroport Charles de Gaulle",
+                        "en": "At Charles de Gaulle airport",
+                        "sk": "Na letisku Charles de Gaulle"
+                    },
+                    {
+                        "fr": "À la Gare du Nord",
+                        "en": "At Gare du Nord",
+                        "sk": "Na stanici Gare du Nord"
+                    },
+                    {
+                        "fr": "À la Gare de Lyon", 
+                        "en": "At Gare de Lyon",
+                        "sk": "Na stanici Gare de Lyon"
+                    },
+                    {
+                        "fr": "À la Gare Montparnasse",
+                        "en": "At Gare Montparnasse", 
+                        "sk": "Na stanici Gare Montparnasse"
+                    }
+                ],
+                "correct": 1,
+                "explanation": {
+                    "fr": "Le texte dit clairement \"Il descend du train à la Gare du Nord\"",
+                    "en": "The text clearly says \"He gets off the train at Gare du Nord\"",
+                    "sk": "Text jasne hovorí \"Vystupuje z vlaku na Gare du Nord\""
+                }
+            }
+        ]
+    }
+}

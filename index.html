@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn French through interactive stories - Level A2. Marc's first days in Paris.">
+    <meta name="keywords" content="French learning, français, A2 level, interactive stories, language learning">
+    <meta name="author" content="LinguaStory v01">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="LinguaStory v01 - Learn French Through Stories">
+    <meta property="og:description" content="Interactive A2 French learning through Marc's adventures in Paris">
+    <meta property="og:image" content="assets/linguastory-preview.jpg">
+    
+    <title>LinguaStory v01 - French Learning Stories</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%236366f1'/%3E%3Ctext x='16' y='22' font-family='Arial' font-size='14' font-weight='bold' text-anchor='middle' fill='white'%3ELS%3C/text%3E%3C/svg%3E">
+    
+    <!-- Manifest -->
+    <link rel="manifest" href="manifest.json">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading" class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading LinguaStory...</p>
+    </div>
+
+    <!-- Main App Container -->
+    <div id="app" class="app" style="display: none;">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <div class="header-inner">
+                    <div class="logo">
+                        <span class="logo-icon">🇫🇷</span>
+                        <span class="logo-text">LinguaStory</span>
+                        <span class="logo-level">A2</span>
+                    </div>
+                    
+                    <nav class="nav">
+                        <div class="nav-controls">
+                            <!-- Language Switcher -->
+                            <div class="language-switcher">
+                                <button class="lang-btn active" data-lang="en">🇬🇧 EN</button>
+                                <button class="lang-btn" data-lang="sk">🇸🇰 SK</button>
+                            </div>
+                            
+                            <!-- Translation Toggle -->
+                            <button class="translation-toggle" id="translationToggle">
+                                <span class="toggle-icon">👁️</span>
+                                <span class="toggle-text">Show Translations</span>
+                            </button>
+                            
+                            <!-- Settings -->
+                            <button class="settings-btn" id="settingsBtn">
+                                <span>⚙️</span>
+                            </button>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main">
+            <div class="container">
+                <div class="content-grid">
+                    <!-- Sidebar -->
+                    <aside class="sidebar">
+                        <div class="sidebar-content">
+                            <!-- Progress Overview -->
+                            <div class="progress-section">
+                                <h3>Your Progress</h3>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: 0%"></div>
+                                </div>
+                                <p class="progress-text">0 of 3 chapters completed</p>
+                            </div>
+                            
+                            <!-- Chapter Navigation -->
+                            <div class="chapters-section">
+                                <h3>Chapters</h3>
+                                <div class="chapter-list" id="chapterList">
+                                    <!-- Chapters will be loaded here -->
+                                </div>
+                            </div>
+                            
+                            <!-- Quick Actions -->
+                            <div class="actions-section">
+                                <h3>Quick Actions</h3>
+                                <button class="action-btn" id="vocabularyBtn">
+                                    📚 Vocabulary Review
+                                </button>
+                                <button class="action-btn" id="grammarBtn">
+                                    📖 Grammar Guide
+                                </button>
+                                <button class="action-btn" id="exercisesBtn">
+                                    ✏️ Practice Exercises
+                                </button>
+                            </div>
+                        </div>
+                    </aside>
+
+                    <!-- Main Content Area -->
+                    <div class="content-area">
+                        <!-- Welcome Screen -->
+                        <div id="welcomeScreen" class="welcome-screen">
+                            <div class="welcome-content">
+                                <h1>Welcome to LinguaStory</h1>
+                                <p class="welcome-subtitle">Learn French through Marc's adventures in Paris</p>
+                                
+                                <div class="story-overview">
+                                    <h2>About This Story</h2>
+                                    <p>Join Marc, a young professional, as he arrives in Paris for the first time. Through his adventures, you'll learn essential French vocabulary, grammar, and cultural insights at A2 level.</p>
+                                    
+                                    <div class="story-features">
+                                        <div class="feature">
+                                            <span class="feature-icon">📖</span>
+                                            <div>
+                                                <h3>3 Interactive Chapters</h3>
+                                                <p>Follow Marc's journey from arrival to exploration</p>
+                                            </div>
+                                        </div>
+                                        <div class="feature">
+                                            <span class="feature-icon">🎯</span>
+                                            <div>
+                                                <h3>Grammar Integration</h3>
+                                                <p>Learn naturally with highlighted grammar points</p>
+                                            </div>
+                                        </div>
+                                        <div class="feature">
+                                            <span class="feature-icon">🌍</span>
+                                            <div>
+                                                <h3>Cultural Context</h3>
+                                                <p>Discover French culture and social norms</p>
+                                            </div>
+                                        </div>
+                                        <div class="feature">
+                                            <span class="feature-icon">💬</span>
+                                            <div>
+                                                <h3>Bilingual Support</h3>
+                                                <p>Toggle between French and your native language</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <button class="start-btn" id="startStoryBtn">
+                                    Start Your Journey
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Chapter Content -->
+                        <div id="chapterContent" class="chapter-content" style="display: none;">
+                            <!-- Chapter content will be loaded here -->
+                        </div>
+
+                        <!-- Exercise Content -->
+                        <div id="exerciseContent" class="exercise-content" style="display: none;">
+                            <!-- Exercise content will be loaded here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-content">
+                    <p>&copy; 2025 LinguaStory v01. Made with ❤️ for French learners.</p>
+                    <div class="footer-links">
+                        <a href="#about">About</a>
+                        <a href="#privacy">Privacy</a>
+                        <a href="#contact">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Grammar Tooltip -->
+    <div id="grammarTooltip" class="grammar-tooltip" style="display: none;">
+        <div class="tooltip-content">
+            <div class="tooltip-header">
+                <h4 class="tooltip-title"></h4>
+                <button class="tooltip-close">&times;</button>
+            </div>
+            <div class="tooltip-body"></div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/app.js"></script>
+    <script>
+        // Initialize app when DOM is loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            if (window.LinguaStoryApp) {
+                window.app = new LinguaStoryApp();
+                window.app.init();
+            } else {
+                console.error('LinguaStoryApp not found');
+            }
+        });
+    </script>
+</body>
+</html>

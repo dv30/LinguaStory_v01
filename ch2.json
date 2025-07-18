@@ -1,0 +1,51 @@
+{
+    "id": "ch2",
+    "type": "chapter",
+    "number": 2,
+    "level": "A2",
+    "title": "Hôtel et Première Exploration",
+    "titleEn": "Hotel and First Exploration",
+    "titleSk": "Hotel a prvé objavovanie",
+    "estimatedTime": 30,
+    "grammarFocus": ["passe-compose", "partitive-articles", "futur-proche"],
+    "vocabularyCount": 25,
+    "content": {
+        "story": {
+            "fr": "Marc est arrivé devant l'Hôtel des Jardins après vingt minutes de métro. Il a trouvé facilement l'hôtel grâce aux indications de la dame du métro...",
+            "en": "Marc arrived in front of Hotel des Jardins after twenty minutes on the metro. He easily found the hotel thanks to the directions from the lady on the metro...",
+            "sk": "Marc prišiel pred Hotel des Jardins po dvadsiatich minútach v metre. Hotel ľahko našiel vďaka návodom od pani z metra..."
+        },
+        "vocabulary": [
+            {
+                "fr": "facilement",
+                "pronunciation": "/fa.sil.mɑ̃/",
+                "en": "easily",
+                "sk": "ľahko",
+                "example": "trouvé facilement",
+                "note": "Adverb formation"
+            }
+        ],
+        "exercises": [
+            {
+                "type": "multiple-choice",
+                "question": {
+                    "fr": "Combien de nuits Marc va-t-il rester ?",
+                    "en": "How many nights will Marc stay?",
+                    "sk": "Koľko nocí Marc zostane?"
+                },
+                "options": [
+                    {"fr": "Une nuit", "en": "One night", "sk": "Jednu noc"},
+                    {"fr": "Deux nuits", "en": "Two nights", "sk": "Dve noci"}, 
+                    {"fr": "Trois nuits", "en": "Three nights", "sk": "Tri noci"},
+                    {"fr": "Quatre nuits", "en": "Four nights", "sk": "Štyri noci"}
+                ],
+                "correct": 2,
+                "explanation": {
+                    "fr": "Marc dit \"j'ai réservé une chambre pour trois nuits\"",
+                    "en": "Marc says \"I reserved a room for three nights\"",
+                    "sk": "Marc hovorí \"rezervoval som si izbu na tri noci\""
+                }
+            }
+        ]
+    }
+}

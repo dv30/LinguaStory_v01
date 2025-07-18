@@ -1,0 +1,50 @@
+[
+    {
+        "id": "ch1",
+        "number": 1,
+        "title": "Arrivée à Paris",
+        "titleEn": "Arrival in Paris",
+        "titleSk": "Príchod do Paríža",
+        "description": "Marc arrive à Paris et découvre la ville",
+        "descriptionEn": "Marc arrives in Paris and discovers the city",
+        "descriptionSk": "Marc prichádza do Paríža a objavuje mesto",
+        "completed": false,
+        "type": "chapter",
+        "level": "A2",
+        "grammarFocus": ["present-tense", "questions-quoi", "prepositions-place"],
+        "vocabularyCount": 25,
+        "estimatedTime": 30
+    },
+    {
+        "id": "ch2", 
+        "number": 2,
+        "title": "Hôtel et Première Exploration",
+        "titleEn": "Hotel and First Exploration",
+        "titleSk": "Hotel a prvé objavovanie",
+        "description": "Marc s'installe à l'hôtel et explore le quartier",
+        "descriptionEn": "Marc settles into the hotel and explores the neighborhood",
+        "descriptionSk": "Marc sa ubytuje v hoteli a objavuje okolie",
+        "completed": false,
+        "type": "chapter",
+        "level": "A2",
+        "grammarFocus": ["passe-compose", "partitive-articles", "futur-proche"],
+        "vocabularyCount": 25,
+        "estimatedTime": 30
+    },
+    {
+        "id": "ch3",
+        "number": 3,
+        "title": "Découverte du Louvre",
+        "titleEn": "Discovering the Louvre",
+        "titleSk": "Objavovanie Louvru",
+        "description": "Marc visite le Louvre et rencontre d'autres touristes",
+        "descriptionEn": "Marc visits the Louvre and meets other tourists",
+        "descriptionSk": "Marc navštevuje Louvre a stretáva iných turistov",
+        "completed": false,
+        "type": "chapter",
+        "level": "A2",
+        "grammarFocus": ["comparative-superlative", "possessive-adjectives", "imperative"],
+        "vocabularyCount": 25,
+        "estimatedTime": 30
+    }
+]

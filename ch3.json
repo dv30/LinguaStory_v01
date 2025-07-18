@@ -1,0 +1,51 @@
+{
+    "id": "ch3",
+    "type": "chapter",
+    "number": 3,
+    "level": "A2", 
+    "title": "Découverte du Louvre",
+    "titleEn": "Discovering the Louvre",
+    "titleSk": "Objavovanie Louvru",
+    "estimatedTime": 30,
+    "grammarFocus": ["comparative-superlative", "possessive-adjectives", "imperative"],
+    "vocabularyCount": 25,
+    "content": {
+        "story": {
+            "fr": "Le lendemain matin, Marc se réveille plus tôt que prévu. Il a son petit-déjeuner à l'hôtel : le meilleur croissant qu'il ait jamais mangé...",
+            "en": "The next morning, Marc wakes up earlier than expected. He has his breakfast at the hotel: the best croissant he has ever eaten...",
+            "sk": "Nasledujúce ráno sa Marc zobudí skôr ako očakával. V hoteli raňajkuje: najlepší croissant, aký kedykoľvek jedol..."
+        },
+        "vocabulary": [
+            {
+                "fr": "lendemain",
+                "pronunciation": "/lɑ̃d.mɛ̃/",
+                "en": "next day",
+                "sk": "nasledujúci deň",
+                "example": "Le lendemain matin",
+                "note": "Time expression"
+            }
+        ],
+        "exercises": [
+            {
+                "type": "multiple-choice",
+                "question": {
+                    "fr": "Comment Marc trouve-t-il la Joconde ?",
+                    "en": "How does Marc find the Mona Lisa?",
+                    "sk": "Ako Marc vníma Monu Lisu?"
+                },
+                "options": [
+                    {"fr": "Plus grande qu'imaginé", "en": "Larger than imagined", "sk": "Väčšiu ako si myslel"},
+                    {"fr": "Plus petite qu'imaginé", "en": "Smaller than imagined", "sk": "Menšiu ako si myslel"},
+                    {"fr": "Comme il l'imaginait", "en": "As he imagined", "sk": "Ako si myslel"},
+                    {"fr": "Décevante", "en": "Disappointing", "sk": "Sklamajúcu"}
+                ],
+                "correct": 1,
+                "explanation": {
+                    "fr": "La Joconde lui paraît plus petite qu'il ne l'imaginait",
+                    "en": "The Mona Lisa seems smaller to him than he imagined",
+                    "sk": "Mona Lisa sa mu zdá menšia, ako si myslel"
+                }
+            }
+        ]
+    }
+}
